@@ -1,0 +1,12 @@
+{
+  "name": "dr-protocol-tools",
+  "version": "0.0.0",
+  "private": true,
+  "type": "commonjs",
+  "bin": {
+    "dr-protocol": "tools/dr_protocol.js"
+  },
+  "dependencies": {
+    "minimist": "^1.2.7"
+  }
+}
